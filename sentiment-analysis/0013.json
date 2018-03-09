@@ -1,0 +1,56 @@
+{
+  "sentences_tone": [
+    {
+      "tones": [
+        {
+          "tone_id": "joy",
+          "score": 0.858649,
+          "tone_name": "Joy"
+        }
+      ],
+      "text": "This is the best day of my life!",
+      "sentence_id": 0
+    },
+    {
+      "tones": [
+        {
+          "tone_id": "anger",
+          "score": 1.0,
+          "tone_name": "Anger"
+        },
+        {
+          "tone_id": "sadness",
+          "score": 0.916667,
+          "tone_name": "Sadness"
+        },
+        {
+          "tone_id": "fear",
+          "score": 0.931034,
+          "tone_name": "Fear"
+        }
+      ],
+      "text": "I hate you.",
+      "sentence_id": 1
+    },
+    {
+      "tones": [
+        {
+          "tone_id": "joy",
+          "score": 0.885381,
+          "tone_name": "Joy"
+        }
+      ],
+      "text": "I love your accent!",
+      "sentence_id": 2
+    }
+  ],
+  "document_tone": {
+    "tones": [
+      {
+        "tone_id": "joy",
+        "score": 0.691631,
+        "tone_name": "Joy"
+      }
+    ]
+  }
+}

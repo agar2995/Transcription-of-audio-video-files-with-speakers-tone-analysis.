@@ -1,0 +1,16 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "tone_name": "Sadness",
+        "score": 0.649427,
+        "tone_id": "sadness"
+      },
+      {
+        "tone_name": "Analytical",
+        "score": 0.724236,
+        "tone_id": "analytical"
+      }
+    ]
+  }
+}

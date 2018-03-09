@@ -1,0 +1,29 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "tone_name": "Sadness", 
+        "score": 0.679039, 
+        "tone_id": "sadness"
+      }
+    ]
+  }, 
+  "sentences_tone": [
+    {
+      "text": "Miss Shiwan Mohanty What are you looking at now?", 
+      "sentence_id": 0, 
+      "tones": [
+        {
+          "tone_name": "Sadness", 
+          "score": 0.816732, 
+          "tone_id": "sadness"
+        }
+      ]
+    }, 
+    {
+      "text": "What are you searching on the net?", 
+      "sentence_id": 1, 
+      "tones": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "spatial-encoder-197417",
+  "private_key_id": "369b5120f6895feb1f2ce94fe4b03d9742fcfe33",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCgvT97GBy8O6SY\nEehpR4ZroPShuaZ0beoltXTcQh9th+ktUDHDlPylU+70mPrxJmepZKEmxDo3EBsJ\nB+mJvzkyyoRPNMlL7QVX5qoYPNp/Nd+LFhEw1VieAtFNAi5OyjkPWhj8XRFliNvW\n6X4Br9Lf8zE+C9GOkYd9BHjpBDnPJRveDAaVuwR4qNrbyUPmB0BtyewU14NcD/YR\nDeEN/IQY9/ftvS9nIEvxDmPVE6Hamn30s4nmN5nzsKCyn+vD4URLq36nftXKDvf/\naGjXcVrpmwo4w8gf84ddGC7CxvnDoJJk2x+B+dayFGWyZj66trwj0vfLWQ5x9yM7\nRXZqATJ7AgMBAAECggEAFscaos/k6outJFuNSrX3B3N0lyJewyr8PkG7gKbiGzxi\nP6iYlLWdI7SELScskFW35No8t+igs0LWAe6cGof9jAQEwdCiId9BnZYzTmH5OIOi\n3OvQndHtz95oWHhRpZqkgVdsKP7rQy8ksAzAbW7D/DZTKQ61sHVQ9NdYZvTRWFgZ\nNPUa11WSQJ3kGTqaYtXnOvefyS9MpojgF1crVyMfB3JqkoKDFmfckr3rR/9KVlYe\nZFmF5T6cMI3Wy1goMEVnee7dFXj/8UymYF7DOmFW0rDvJ2Xwx1kTUoke5A0LmYse\nvbpVNAowaCvgl8TyWA44ePggcjp91MwyodFbUvDbiQKBgQDa9Xere6tekNVAJYUz\nD675vM9a/4b2FEsSTwzUXusfi9pTtM9Q9zJ7SPpWeeBRiN5fdfKZmHuWMQ/aTSjb\nOelgc+H2WvA1ghZ1zwP8Z7KAG3faQ+48Xk6x8oqIo7spDr5Ae90Dol2RLaDt100D\nJslQW/rBt0HHJqPvPVrSvgxSHwKBgQC77nE+OoykG8+dfiai8w9dIhVsGIKIUrnD\neQgBPFsD8kTBm/Ea6wKLenGp5w01iTYhkc2/9deKYp3tF9ecjzeLpuB3ZGYe/biC\ntlQryqsOoJsoAiVJrJaCPAnKsiMQAhMvgz8jOSHQTJ+NQaCFSaaQN4Xqwo3c/njK\nXFshQGQsJQKBgGUTPTvW6ePMffSPnW5VxhMY2quKG5YLBiCchzKd4nH8kDtl0vHw\nOsh4hr9WoXth8C0m+Gd44UwSt9uxFLQmhpn0xJGBpzM8KvwVJSTmBZtnkqsaAqax\nbihs6xBqbKJmYOLJitv7nq++3XQNmEplJDdJTncQDnhNWQ2+R+fSvUNHAoGALVJi\nswwxsL4YQrYSoUeW0/INUoVSrYetzwtYN9wTYw9BL6Po8IHumi6MTNow4FFX4Z6l\nDP8/3NrNlUkjsVkEn0Q+a+yliCHOJo/MGseEm0F2SZ7C2VKq9Xt/LQfq1sh5UgMH\n7fmwQujHraw/BwXtCmipfiUvSzV/ceX2AD3kKpUCgYBxbJi+mH1q88/5c9MG+WNg\nd5fKbov69mJpJoW7oBvZC0HEGP9S8CrP6l7TV+EZdBKtn9mmoD8SzncGR/Z5H+Um\n8D9pCSZZUEyZdt3nC6DlzqxLwleG1lE8DPbQSqbbxvDjZ1/p6whf9LAKXVoWdm0h\nMvF7xsST+Gvz5wSkyXjNbQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-project@spatial-encoder-197417.iam.gserviceaccount.com",
+  "client_id": "110031331748659229522",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-project%40spatial-encoder-197417.iam.gserviceaccount.com"
+}

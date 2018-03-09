@@ -1,0 +1,61 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "tone_name": "Fear", 
+        "score": 0.929188, 
+        "tone_id": "fear"
+      }
+    ]
+  }, 
+  "sentences_tone": [
+    {
+      "text": "I hate you.", 
+      "sentence_id": 0, 
+      "tones": [
+        {
+          "tone_name": "Anger", 
+          "score": 1.0, 
+          "tone_id": "anger"
+        }, 
+        {
+          "tone_name": "Sadness", 
+          "score": 0.916667, 
+          "tone_id": "sadness"
+        }, 
+        {
+          "tone_name": "Fear", 
+          "score": 0.931034, 
+          "tone_id": "fear"
+        }
+      ]
+    }, 
+    {
+      "text": "I love your accent.", 
+      "sentence_id": 1, 
+      "tones": [
+        {
+          "tone_name": "Joy", 
+          "score": 0.870129, 
+          "tone_id": "joy"
+        }
+      ]
+    }, 
+    {
+      "text": "I fear you", 
+      "sentence_id": 2, 
+      "tones": [
+        {
+          "tone_name": "Anger", 
+          "score": 0.931034, 
+          "tone_id": "anger"
+        }, 
+        {
+          "tone_name": "Fear", 
+          "score": 1.0, 
+          "tone_id": "fear"
+        }
+      ]
+    }
+  ]
+}
